@@ -8,8 +8,8 @@ export const s = StyleSheet.create({
         backgroundColor: '#f9f9f9'
     },
     header: {
-        flex: 1,
-
+        height: 'fit-content',
+        marginBottom: 32
     },
     body: {
         flex: 5,
